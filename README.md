@@ -12,7 +12,7 @@
 in the radio buttons and then he clicks the order pizza button. Then the employee clicks on remove order, and after 2 seconds a message will confirm that the order has been removed. Also there is a list in the backend containing the order where we do testing on the size both before and after deleting order.
 </p>
 
-<h2>Test results:</h2>
+<h2>Test results <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> :</h2>
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture1.PNG" alt="c1"/><br/><br/><br/>
 
