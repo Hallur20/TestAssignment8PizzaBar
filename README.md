@@ -14,12 +14,12 @@
 in the radio buttons and then he clicks the order pizza button. Then the employee clicks on remove order, and after 2 seconds a message will confirm that the order has been removed. Also there is a list in the backend containing the order where we do testing on the size both before and after deleting order.
 </p>
 
-<h3>Test results:</h3>
+<h2>Test results:</h2>
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture1.PNG" alt="c1"/><br/><br/><br/>
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture2.PNG" alt="c2"/><br/><br/><br/>
 
-<h3>That how the web user interface looks like:</h3>
+<h2>That how the web user interface looks like:</h2>
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture3.PNG" alt="c3"/>
