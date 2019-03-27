@@ -18,6 +18,6 @@ in the radio buttons and then he clicks the order pizza button. Then the employe
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture2.PNG" alt="c2"/><br/><br/><br/>
 
-<h2>That how the web user interface looks like:</h2>
+<h2>That how the web user interface looks like <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> :</h2>
 
 <img src="https://github.com/Hallur20/TestAssignment8PizzaBar/blob/master/Capture3.PNG" alt="c3"/>
