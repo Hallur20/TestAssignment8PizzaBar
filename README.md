@@ -1,4 +1,4 @@
-<h1>Test Assignment 8 (Mario PizzaBar)</h1>
+<h1>Test Assignment 8 (Mario PizzaBar)<g-emoji class="g-emoji" alias="pizza" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f355.png">🍕</g-emoji></h1>
 
 <h2>Description</h2>
 
